@@ -1,0 +1,6 @@
+---
+applications:
+- name: boot03
+  memory: 1G
+  random-route: true
+  path: target/boot03-170603-0.0.1-SNAPSHOT.jar
